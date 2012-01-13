@@ -1,0 +1,5 @@
+function ImagesModel() {
+
+    this.images = {};
+
+};
